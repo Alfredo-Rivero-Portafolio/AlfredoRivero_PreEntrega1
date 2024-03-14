@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "AlfredoRivero_PreEntrega1",
+			"path": "../../../CoderHouse_1/AlfredoRivero_PreEntrega1"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
